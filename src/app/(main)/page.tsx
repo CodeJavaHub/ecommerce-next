@@ -1,3 +1,3 @@
 export default async function HomePage() {
-  return <div>Home Page View</div>;
+  return <h1 className="text-3xl font-bold">Home Page</h1>;
 }
